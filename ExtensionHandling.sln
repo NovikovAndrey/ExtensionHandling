@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionHandling", "ExtensionHandling\ExtensionHandling.csproj", "{B21C0449-1369-42D9-B688-CFAE8DF1D91F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileHandlerLibrary", "TestFileHandlerLibrary\TestFileHandlerLibrary.csproj", "{E04FC2FA-9182-4FB4-854F-71FD52452F76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileHandlerLibrary", "TestFileHandlerLibrary\TestFileHandlerLibrary.csproj", "{AA2167F2-234F-4BBB-A7B2-42166D60E6B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B21C0449-1369-42D9-B688-CFAE8DF1D91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B21C0449-1369-42D9-B688-CFAE8DF1D91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B21C0449-1369-42D9-B688-CFAE8DF1D91F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E04FC2FA-9182-4FB4-854F-71FD52452F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E04FC2FA-9182-4FB4-854F-71FD52452F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E04FC2FA-9182-4FB4-854F-71FD52452F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E04FC2FA-9182-4FB4-854F-71FD52452F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2167F2-234F-4BBB-A7B2-42166D60E6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2167F2-234F-4BBB-A7B2-42166D60E6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2167F2-234F-4BBB-A7B2-42166D60E6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2167F2-234F-4BBB-A7B2-42166D60E6B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

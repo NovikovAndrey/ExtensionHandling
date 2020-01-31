@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestFileHandlerLibrary\TestFileHandlerLibrary.csproj">
-      <Project>{e04fc2fa-9182-4fb4-854f-71fd52452f76}</Project>
+      <Project>{aa2167f2-234f-4bbb-a7b2-42166d60e6b4}</Project>
       <Name>TestFileHandlerLibrary</Name>
     </ProjectReference>
   </ItemGroup>
