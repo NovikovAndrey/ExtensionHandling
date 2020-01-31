@@ -9,7 +9,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-
+        <a href="1.test">1.test</a><br />
+        <a href="2.test">2.test</a><br />
+        <a href="3.test">3.test</a><br />
         </div>
     </form>
 </body>
